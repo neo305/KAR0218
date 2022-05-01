@@ -7,6 +7,10 @@ backupdb.bin
 CopyCH.bin
 disableaslr.bin
 disableupdates.bin
+DumperG.bin
+DumperMGU.bin
+DumperSGU.bin
+DumperU.bin
 enablebrowser.bin
 enableupdates.bin
 exitidu.bin
